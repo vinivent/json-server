@@ -1,9 +1,46 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "items": [
+    {
+      "id": 1,
+      "title": {
+        "pt": "Trilhas",
+        "en": "Steps",
+        "es": "Pasos"
+      },
+      "description": {
+        "pt": "Crie planos de estudos especificando\naulas e/ou cursos e definindo a ordem\nque seus alunos devem estudar.",
+        "en": "Create study plans by specifying\nclasses or courses and defining the order\nin which your students should study.",
+        "es": "Crea planes de estudio especificando\nclases o cursos y definiendo el orden\nen el que tus alumnos deben estudiar."
+      },
+      "icon": "/assets/icons/icon-trilhas.svg"
+    },
+    {
+      "id": 2,
+      "title": {
+        "pt": "Playlists",
+        "en": "Playlists",
+        "es": "Playlists"
+      },
+      "description": {
+        "pt": "Transforme uma coleção em uma\nplaylist para poder ver vídeos e áudios\nem sequência e offline.",
+        "en": "Turn a collection into a playlist so you\n can watch videos and audios \nin sequence and offline.",
+        "es": "Convierta una colección en una lista\n de reproducción para que pueda\n ver videos y audios en secuencia y\n sin conexión."
+      },
+      "icon": "/assets/icons/icon-playlists2.svg"
+    },
+    {
+      "id": 3,
+      "title": {
+        "pt": "Coleções",
+        "en": "Collections",
+        "es": "Colecciones"
+      },
+      "description": {
+        "pt": "Crie coleções, adicione conteúdos,\nreorganize ítens e deixe tudo do seu\njeito para melhorar a experiência.",
+        "en": "Create collections, add content,\nrearrange items, and have it your way \nto enhance the experience.",
+        "es": "Cree colecciones, agregue contenido,\nreorganice elementos y déjelo a su \nmanera para mejorar la experiencia."
+      },
+      "icon": "/assets/icons/icon-folder.svg"
+    }
+  ]
 }
