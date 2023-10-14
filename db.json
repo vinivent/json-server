@@ -42,5 +42,198 @@
       },
       "icon": "/assets/icons/icon-folder.svg"
     }
+  ],
+  "itemsNav": [
+    {
+      "id": 1,
+      "navLiOne": {
+        "pt": {
+          "text": "Soluções",
+          "iconSrc": "/assets/icons/Polygon.svg"
+        },
+        "en": {
+          "text": "Solutions",
+          "iconSrc": "/assets/icons/Polygon.svg"
+        },
+        "es": {
+          "text": "Soluciones",
+          "iconSrc": "/assets/icons/Polygon.svg"
+        }
+      },
+      "navLiTwo": {
+        "pt": "Preços",
+        "en": "Prices",
+        "es": "Precios"
+      },
+      "navLiThree": {
+        "pt": "Academy",
+        "en": "Academy",
+        "es": "Academy"
+      },
+      "navLiFour": {
+        "pt": "Blog",
+        "en": "Blog",
+        "es": "Blog"
+      },
+      "navLiFive": {
+        "pt": "Contato",
+        "en": "Contact",
+        "es": "Contacto"
+      }
+    },
+    {
+      "id": 2,
+      "login": {
+        "pt": "Entrar",
+        "en": "Log In",
+        "es": "Acesso"
+      },
+      "button": {
+        "pt": "Começar agora",
+        "en": "Start now",
+        "es": "Empezar ahora"
+      }
+    }
+  ],
+  "itemsSol": [
+    {
+      "id": 1,
+      "title": {
+        "pt": "SOLUÇÕES PRINCIPAIS",
+        "en": "MAIN SOLUTIONS",
+        "es": "PRINCIPALES SOLUCIONES"
+      }
+    },
+    {
+      "id": 2,
+      "solTitleOne": {
+        "pt": "Crie uma Escola Online",
+        "en": "Create an Online School",
+        "es": "Crear una Escuela Online"
+      },
+      "descriptionOne": {
+        "pt": "Lorem ipsum dolor sit amet",
+        "en": "Lorem ipsum dolor sit amet",
+        "es": "Lorem ipsum dolor sit amet"
+      }
+    },
+    {
+      "id": 3,
+      "solTitleTwo": {
+        "pt": "Comunidade e rede social",
+        "en": "Community and social media",
+        "es": "Comunidad y Red Social"
+      },
+      "descriptionTwo": {
+        "pt": "Lorem ipsum dolor sit amet",
+        "en": "Lorem ipsum dolor sit amet",
+        "es": "Lorem ipsum dolor sit amet"
+      }
+    },
+    {
+      "id": 4,
+      "solTitleThree": {
+        "pt": "Gamificação",
+        "en": "Gamification",
+        "es": "Gamificación"
+      },
+      "descriptionThree": {
+        "pt": "Lorem ipsum dolor sit amet",
+        "en": "Lorem ipsum dolor sit amet",
+        "es": "Lorem ipsum dolor sit amet"
+      }
+    },
+    {
+      "id": 5,
+      "solTitleFour": {
+        "pt": "Aplicativo mobile",
+        "en": "Mobile application",
+        "es": "Aplicación móvil"
+      },
+      "descriptionFour": {
+        "pt": "Lorem ipsum dolor sit amet",
+        "en": "Lorem ipsum dolor sit amet",
+        "es": "Lorem ipsum dolor sit amet"
+      }
+    }
+  ],
+  "itemsHero": [
+    {
+      "title": {
+        "pt": "PLATAFORMA ALL IN ONE",
+        "en": "ALL-IN-ONE PLATFORM",
+        "es": "PLATAFORMA ALL IN ONE"
+      }
+    },
+    {
+      "h1": {
+        "pt": "Sua escola online\n poderosa e lucrativa",
+        "en": "Your powerful and\n profitable online school",
+        "es": "Tu escuela online\n poderosa y rentable"
+      }
+    },
+    {
+      "paragraph": {
+        "pt": "Tenha sua própria escola online 100% white label com\n rede social, gamificação, clube de assinaturas,\n e-commerce e sistema EAD completo.",
+        "en": "Have your own 100% white label online school with\n social network, gamification, subscription club,\n e-commerce, and a complete EAD system.",
+        "es": "Tenga su propia escuela en línea 100% white label con\n red social, gamificación, club de suscripciones,\n e-commerce y un sistema EAD completo"
+      }
+    },
+    {
+      "button": {
+        "pt": "Começar agora",
+        "en": "Start now",
+        "es": "Empezar ahora"
+      }
+    },
+    {
+      "buttonparagraph": {
+        "pt": "Ver vídeo",
+        "en": "Watch video",
+        "es": "Ver video"
+      }
+    }
+  ],
+  "itemsDetails": [
+    {
+      "id": 1,
+      "paragraph": {
+        "pt": "PENSAMOS EM CADA DETALHE",
+        "en": "WE'VE THOUGHT OF EVERY DETAIL",
+        "es": "PENSAMOS EN CADA DETALLE"
+      }
+    },
+    {
+      "id": 2,
+      "h1": {
+        "pt": "Queremos que o aluno se sinta confortável enquanto aprende",
+        "en": "We want the student to feel comfortable while learning",
+        "es": "Queremos que el estudiante se sienta cómodo mientras aprende"
+      }
+    },
+    {
+      "id": 3,
+      "paragraphTwo": {
+        "pt": "Conheça alguns dos nossos recursos",
+        "en": "Get to know some of our resources",
+        "es": "Conozca algunos de nuestros recursos"
+      }
+    },
+    {
+      "id": 4,
+      "paragraphThree": {
+        "pt": "Veja todos os outros recursos disponíveis para te ajudar",
+        "en": "See all the other resources available to help you",
+        "es": "Mira todos los otros recursos disponibles para ayudarte"
+      }
+    },
+    {
+      "id": 4,
+      "paragraphFour": {
+        "pt": "Ver mais",
+        "en": "See more",
+        "es": "Ver más"
+      }
+    }
   ]
 }
